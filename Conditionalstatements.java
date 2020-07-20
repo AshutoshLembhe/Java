@@ -6,7 +6,7 @@ Write your code in this editor and press "Run" button to execute it.
 
 *******************************************************************************/
 
-public class Main
+public class Conditionalstatements
 {
 	public static void main(String[] args) {
 		
