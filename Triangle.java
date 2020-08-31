@@ -6,10 +6,10 @@ Write your code in this editor and press "Run" button to execute it.
 
 *******************************************************************************/
 import java.util.Scanner;
-public class Main
+public class Triangle
 {
 	public static void main(String[] args) {
-		System.out.println("Left sided pyramid Pattern");
+		System.out.println("Right sided pyramid Pattern");
 		Scanner scan=new Scanner(System.in);
 		System.out.println("Enter the pattern length");
 		int no=scan.nextInt();
